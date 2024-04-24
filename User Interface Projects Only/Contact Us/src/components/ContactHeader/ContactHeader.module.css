@@ -1,0 +1,21 @@
+.ContactHeader{
+    margin-top: 81px;
+}
+
+.ContactHeader h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000;
+    max-width: 80%;
+}
+
+.ContactHeader p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 16;
+    line-height: 24px;
+    color: var(--gray);
+    width: 975px;
+}
